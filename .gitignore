@@ -1,5 +1,7 @@
 # Ignore everything in bin/ directory except the .exe files
 /bin/*
+!/bin/Debug/
+!/bin/Release/
 !/bin/Debug/*.exe
 !/bin/Release/*.exe
 /obj/*
