@@ -1,7 +1,5 @@
 # Ignore everything in bin/ directory except the .exe files
 /Note Taking Application/bin/*
-!/Note Taking Application/bin/Debug/
-!/Note Taking Application/bin/Release/
 !/Note Taking Application/bin/Debug/*.exe
 !/Note Taking Application/bin/Release/*.exe
 /obj/*
